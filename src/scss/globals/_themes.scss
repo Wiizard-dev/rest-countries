@@ -1,0 +1,11 @@
+body:not(.light-mode), body.darkmode{
+    --elements: var(--dark-mode-elements);
+    --text: var(--dark-mode-text) ;
+    --background: var(--dark-mode-background);
+}
+
+body:not(.dark-mode), body.lightmode {
+    --elements: var(--light-mode-elements);
+    --text: var(--light-mode-text);
+    --background: var(--light-mode-background);
+}
