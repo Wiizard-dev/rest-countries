@@ -3,6 +3,10 @@
 - Made by [Wiizard-Dev](https://github.com/Wiizard-dev) ! (also know as melancepaslapierre)
 - Design and idea from FrontEndMentor : [here](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca)
 
+### `npm install`
+
+Install all npm packages that are needed (including React, React-Dom etc.)
+
 ### `npm start`
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
