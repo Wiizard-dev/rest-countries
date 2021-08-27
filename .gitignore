@@ -1,0 +1,7 @@
+*.sketch
+*.xd
+*.fig
+.DS_Store
+
+nodes_modules
+.vscode
